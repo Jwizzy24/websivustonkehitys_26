@@ -44,6 +44,5 @@
         <input type="email" id="email" name="email"><br><br>
         <input type="submit" value="Submit">
     </form>
-</table>
 </body>
 </html>
