@@ -7,20 +7,20 @@
         <h1>Welcome to my Page</h1>
         <p>This is a paragraph.</p>
         <img src="Kuva tehtävään.png" alt="Description of image">
-        <h2>Harrastukseni</h2>
-    <ol>
-        <li>Koripallo</li>
-        <li>Jalkapallo</li>
-        <li>Padel</li>
-        <li>Futsal</li>
-    </ol>
+    <h2>Harrastukseni</h2>
+        <ol>
+            <li>Koripallo</li>
+            <li>Jalkapallo</li>
+            <li>Padel</li>
+            <li>Futsal</li>
+        </ol>
     <h2>Muut harrastukset</h2>
     <ul>
         <li>Kokkaaminen</li>
         <li>Videopelien pelaaminen</li>
-        <li>Jalkapallojoukkueen johto portaan pyörittäminen</li>
-        <table>
+        <li>Jalkapallojoukkueen johto portaan pyörittäminen</li> 
     </ul>
+    <table>
     <tr>
         <th>Positiiviset</th>
         <th>Negatiiviset</th>
