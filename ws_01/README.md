@@ -37,9 +37,7 @@
 <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Kuuntele Lempi biisini</a>
 </p>
 <h2>Jätä kontaktisi</h2>
-    
-    
-<form>
+    <form>
          <label for="name">Name:</label>
         <input type="text" id="name" name="name"><br><br>
         <label for="email">Email:</label>
