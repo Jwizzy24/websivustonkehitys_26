@@ -7,7 +7,7 @@
         <h1>Tervetuloa maailmaani.</h1>
         <p>This is a paragraph.</p>
         <img src="Kuva tehtävään.png" alt="Description of image">
-        width="400"
+width="400"
     <h2>Harrastukseni</h2>
         <ol>
             <li>Koripallo</li>
