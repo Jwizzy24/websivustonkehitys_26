@@ -20,6 +20,7 @@
         <li>Videopelien pelaaminen</li>
         <li>Jalkapallojoukkueen johto portaan pyörittäminen</li>
         <table>
+    </ul>
     <tr>
         <th>Positiiviset</th>
         <th>Negatiiviset</th>
@@ -32,6 +33,7 @@
         <td>Hitusen hankala</td>
         <td>Hermojen raastamista</td>
         <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Lempi biisi</a>
+    </tr>
     </table>
     </ul>
     </body>
