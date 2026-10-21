@@ -1,10 +1,10 @@
 <!DOCTYPE html>
     <html>
     <head>
-        <title>My First HTML Page</title>
+        <title>Justus</title>
     </head>
     <body>
-        <h1>Welcome to my Page</h1>
+        <h1>Tervetuloa maailmaani.</h1>
         <p>This is a paragraph.</p>
         <img src="Kuva tehtävään.png" alt="Description of image">
     <h2>Harrastukseni</h2>
@@ -32,7 +32,7 @@
     <tr>
         <td>Hitusen hankala</td>
         <td>Hermojen raastamista</td>
-        <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Lempi biisi</a>
+        <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Kuuntele Lempi biisini</a>
     </tr>
     </table>
     </ul>
