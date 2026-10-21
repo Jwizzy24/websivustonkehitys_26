@@ -7,6 +7,7 @@
         <h1>Tervetuloa maailmaani.</h1>
         <p>This is a paragraph.</p>
         <img src="Kuva tehtävään.png" alt="Description of image">
+        width="400"
     <h2>Harrastukseni</h2>
         <ol>
             <li>Koripallo</li>
@@ -35,6 +36,5 @@
         <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Kuuntele Lempi biisini</a>
     </tr>
     </table>
-    </ul>
     </body>
     </html>
