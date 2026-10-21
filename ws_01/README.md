@@ -6,8 +6,7 @@
     <body>
         <h1>Tervetuloa maailmaani.</h1>
         <p>This is a paragraph.</p>
-        <img src="Kuva tehtävään.png" alt="Description of image">
-width="400"
+        <img src="Kuva tehtävään.png" alt="Description of image" style="width: 400px; max-width: 100%; height: auto;">
     <h2>Harrastukseni</h2>
         <ol>
             <li>Koripallo</li>
