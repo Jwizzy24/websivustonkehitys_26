@@ -20,19 +20,32 @@
         <li>Jalkapallojoukkueen johto portaan pyörittäminen</li> 
     </ul>
     <table>
-    <tr>
-        <th>Positiiviset</th>
-        <th>Negatiiviset</th>
-    </tr>
-    <tr>
-        <td>Hauskaa uutta opittavaa</td>
-        <td>Uusia haasteita</td>
-    </tr>
-    <tr>
-        <td>Hitusen hankala</td>
-        <td>Hermojen raastamista</td>
-        <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Kuuntele Lempi biisini</a>
-    </tr>
+<tr>
+<th>Positiiviset</th>
+<th>Negatiiviset</th>
+</tr>
+<tr>
+<td>Hauskaa uutta opittavaa</td>
+<td>Uusia haasteita</td>
+</tr>
+<tr>
+<td>Hitusen hankala</td>
+<td>Hermojen raastamista</td>
+</tr>
+   </table>
+<p> 
+<a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Kuuntele Lempi biisini</a>
+</p>
+<h2>Jätä kontaktisi</h2>
+    
+    
+<form>
+         <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        <input type="submit" value="Submit">
+    </form>
 </table>
 </body>
 </html>
