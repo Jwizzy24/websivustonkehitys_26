@@ -10,13 +10,13 @@ table {
     }
     
     th, td {
-      border: 1px solid #ddd;
+      border: 1px solid #45c3ae;
       padding: 8px;
       text-align: left;
     }
     
     th {
-      background-color: #f2f2f2;
+      background-color: #14b714;
     }
     
     form {
@@ -31,7 +31,7 @@ table {
     
     input[type="text"], input[type="email"] {
       padding: 8px;
-      border: 1px solid #ddd;
+      border: 1px solid #340c91;
       border-radius: 4px;
     }
     
@@ -52,7 +52,7 @@ table {
     }
     
     body {
-      background-color: lightgray;
+      background-color: rgb(236, 170, 170);
     }
     
     h1 {
