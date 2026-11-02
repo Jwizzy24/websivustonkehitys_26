@@ -4,11 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <title>Justus</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+    h1 { 
+      color: blue;
+    }
+    </style>
 </head>
-
 <body>
-    <h1>Tervetuloa maailmaani.</h1>
-    <img src="kuva.png" alt="Kuva minusta" width="150">
+    <h1 style="color: blue;">Tervetuloa Minun maailmaani.</h1>
+    <img src="Kuva.png.png" alt="Kuva minusta" width="150">
     <p>Olen nuori 24v mies joka tykkää harrastella erillaisia pallopelejä, kokkailla, kuunnella musiikkia ja opiskella
         paljon uutta.Työkseni toimin vartijana. Olen tehnyt hommia kahden vuoden ajan ja tänä aikana kerennyt näkemään
         vaikka ja mitä.</p>
@@ -43,6 +48,10 @@
         <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Kuuntele Lempi
             biisini</a>
     </p>
+    <div class="content-box">
+  <h3>Videopelit</h3>
+  <p>Videopelit on intohimoni ja tapani rauhoittua.</p>
+</div>
     <h2>Jätä kontaktisi</h2>
     <form>
         <label for="name">Name:</label>
@@ -51,6 +60,5 @@
         <input type="email" id="email" name="email"><br><br>
         <input type="submit" value="Submit">
     </form>
-</body>
-
+    </body>
 </html>
