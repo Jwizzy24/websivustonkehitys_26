@@ -1,1 +1,74 @@
-srtjrtjtr
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Justus</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h1 {
+            color: rgb(11, 11, 192);
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="color: rgb(11, 11, 192);">Tervetuloa Minun maailmaani.</h1>
+    <img src="Kuva.png.png" alt="Kuva minusta" width="150">
+    <p>Olen nuori 24v mies joka tykkää harrastella erillaisia pallopelejä, kokkailla, kuunnella musiikkia ja opiskella
+        paljon uutta.Työkseni toimin vartijana. Olen tehnyt hommia kahden vuoden ajan ja tänä aikana kerennyt näkemään
+        vaikka ja mitä.</p>
+    <h2 style="color: rgb(151, 151, 241);">Harrastukseni</h2>
+    <ol>
+        <li>Koripallo</li>
+        <li>Jalkapallo</li>
+        <li>Padel</li>
+        <li>Futsal</li>
+    </ol>
+    <h2 style="color: rgb(38, 192, 11);">Vapaa-ajan tekeleitä</h2>
+    <ul>
+        <li>Kokkaaminen</li>
+        <li>Videopelien pelaaminen</li>
+        <li>Jalkapallojoukkueen johto portaan pyörittäminen</li>
+    </ul>
+    <table>
+        <tr>
+            <th style="color: rgb(11, 172, 25);">Positiiviset</th>
+            <th style="color: rgb(235, 8, 8);">Negatiiviset</th>
+        </tr>
+        <tr>
+            <td>Hauskaa uutta opittavaa</td>
+            <td>Hitusen hankala</td>
+        </tr>
+        <tr>
+            <td> Uusia haasteita</td>
+            <td> Hermojen raastamista</td>
+        </tr>
+    </table>
+    <p>
+        <a href="https://www.youtube.com/watch?v=UfNuombVZb4&list=RDUfNuombVZb4&start_radio=1">Kuuntele Lempi
+            biisini</a>
+    </p>
+    <div class="content-box">
+        <h3>Videopelit</h3>
+        <p>Videopelit on intohimoni ja tapani rauhoittua.</p>
+    </div>
+    <button class="transition-button">Hover me</button>
+    <ul class="pseudo-list">
+        <li>sininen</li>
+        <li>musta</li>
+        <li>sininen</li>
+        <li>musta</li>
+      </ul>
+      <img src="./images/image.jpg" alt="Sample Image" class="filter-image">
+    <h2>Jätä kontaktisi</h2>
+    <form>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>
